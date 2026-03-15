@@ -9,8 +9,8 @@ extern "C" {
 
 /* Wi-Fi configuration */
 /* Use your 2.4 GHz SSID and password here */
-#define WIFI_SSID "Chandu"
-#define WIFI_PW   "12345678910"
+#define WIFI_SSID "wifi_name"
+#define WIFI_PW   "your_password"
 
 /* FreeRTOS Wi-Fi task entry */
 void task_wifi(void *param);
