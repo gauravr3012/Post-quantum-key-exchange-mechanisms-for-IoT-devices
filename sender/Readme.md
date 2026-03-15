@@ -14,7 +14,7 @@
 - CoAP Endpoints
 - Troubleshooting
 - Security Notes
-- Limitations
+
 
 ## Overview
 This project contains the **sender-side firmware** for a post-quantum secure communication demo on the **Bouffalo Lab BL602 / PineCone** platform.
